@@ -8,5 +8,6 @@ linghuchong 第二版
 edit by 令狐冲
 test conflict edit by ybq
 
+这是学习git的草稿文件（待删）
 
 ****葵花宝典，武林至尊****
